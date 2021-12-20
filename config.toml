@@ -1,4 +1,4 @@
-baseURL = "http://localhost:8082/"                                                                                                                                                                                                      
+baseURL = "https://satokk0.github.io/Satokk-Blog/"                                                                                                                                                                                                      
 languageCode = "en-us"                                                                                                                                                                                                                           
 publishDir = "docs"
 title = "Satokk's Blog"                                                                                                                                                                                                                          
