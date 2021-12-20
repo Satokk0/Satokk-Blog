@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Satokk&#39;s Blog</title>
-    <link>https://satokk0.github.io/Satokk-Blog/</link>
-    <description>Recent content on Satokk&#39;s Blog</description>
+    <title>Posts on Satokk&#39;s Blog</title>
+    <link>https://satokk0.github.io/Satokk-Blog/posts/</link>
+    <description>Recent content in Posts on Satokk&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Satokk</copyright>
-    <lastBuildDate>Sat, 18 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Dec 2021 11:59:08 -0500</lastBuildDate>
     
-	<atom:link href="https://satokk0.github.io/Satokk-Blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://satokk0.github.io/Satokk-Blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,18 +19,6 @@
       
       <guid>https://satokk0.github.io/Satokk-Blog/posts/post1/</guid>
       <description>title: Telegram Bot for GitHub Actions date: &amp;ldquo;2020-04-01&amp;rdquo; description: Make a Telegram bot with Node.js and use it with GitHub Actions for sending notifications to you about the repo. tldr: Making GitHub Actions with Js Code Telegram Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed. It is free to use and extensively hackable. It also has a good bot support system. The API is also easy to implement and has many wrappers for building bots with the API.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://satokk0.github.io/Satokk-Blog/about/</link>
-      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://satokk0.github.io/Satokk-Blog/about/</guid>
-      <description>Hello ! I&amp;rsquo;m Mathew and i&amp;rsquo;m an avid security enthusiast working towards learning more every day and research cyber security. I made this blog (or blook) with the purpose of centralizing my knowledge and my adventures, kinda like a portfolio.
-You can find me on :
- Github Twitter Reddit  For a better visibility on my security profile, you can check the following :
- HackTheBox RingZer0  </description>
     </item>
     
   </channel>
